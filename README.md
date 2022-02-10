@@ -6,8 +6,7 @@
 
 - 🌱 Actualmente estoy aprendiendo el lenguaje de pyhton y C#.
 - 😄 Me gusta trabajar en equipo, ayudar y explicar algun tema o conocimiento.
-
-
+- 🎧 Me gusta mucho escuchar musica y jugar videojuegos.
 
 
 -------------------------------------------------------------HORARIO-------------------------------------------------------------------------------
