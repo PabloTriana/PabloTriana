@@ -2,7 +2,7 @@
 
 ![cooltext404055628315774](https://user-images.githubusercontent.com/56365277/153310972-d77a9363-e1f1-4a6b-96ba-01372501dd76.png)
 
-- 🔭 Soy estudiante en Ing. Sistemas Computacionales del Instituto Tecnologico de Tijuana.
+- 🔭 Soy estudiante en Ing. Sistemas Computacionales del Instituto Tecnologico de Tijuana(ITT).
 
 - 🌱 Actualmente estoy aprendiendo el lenguaje de pyhton y C#.
 - 😄 Me gusta trabajar en equipo, ayudar y explicar algun tema o conocimiento.
