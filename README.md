@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**Cache-P/Cache-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![cooltext404055628315774](https://user-images.githubusercontent.com/56365277/153310972-d77a9363-e1f1-4a6b-96ba-01372501dd76.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Soy estudiante en Ing. Sistemas Computacionales del Instituto Tecnologico de Tijuana.
+
+- 🌱 Actualmente estoy aprendiendo el lenguaje de pyhton y C#.
+- 😄 Me gusta trabajar en equipo, ayudar y explicar algun tema o conocimiento.
+
+
+
+
+-------------------------------------------------------------HORARIO--------------------------------------------------------------------------------------
+
+
+|       |             **LUNES**             |             **MARTES**            |           **MIERCOLES**           |             **JUEVES**            |            **VIERNES**            |
+|:-----:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
+|  8:00 | TOPICOS AVANZADOS DE PROGRAMACION | TOPICOS AVANZADOS DE PROGRAMACION | TOPICOS AVANZADOS DE PROGRAMACION | TOPICOS AVANZADOS DE PROGRAMACION | TOPICOS AVANZADOS DE PROGRAMACION |
+|  9:00 |        CULTURA EMPRESARIAL        |        CULTURA EMPRESARIAL        |        CULTURA EMPRESARIAL        |        CULTURA EMPRESARIAL        |                                   |
+| 10:00 |                                   |                                   |                                   |                                   |                                   |
+| 11:00 |                                   |                                   |                                   |                                   |                                   |
+| 12:00 |                                   |                                   |                                   |                                   |                                   |
+| 13:00 |       INGENIERIA DE SOFTWARE      |       INGENIERIA DE SOFTWARE      |       INGENIERIA DE SOFTWARE      |       INGENIERIA DE SOFTWARE      |       INGENIERIA DE SOFTWARE      |
+| 14:00 |       LENGUAJE DE  INTERFAZ       |       LENGUAJE DE  INTERFAZ       |       LENGUAJE DE  INTERFAZ       |       LENGUAJE DE  INTERFAZ       |                                   |
+| 15:00 |       REDES DE COMPUTADORAS       |       REDES DE COMPUTADORAS       |       REDES DE COMPUTADORAS       |       REDES DE COMPUTADORAS       |       REDES DE COMPUTADORAS       |
+| 16:00 |             SIMULACION            |             SIMULACION            |             SIMULACION            |             SIMULACION            |             SIMULACION            |
+| 17:00 |       LENGUAJE Y AUTOMATAS 1      |       LENGUAJE Y AUTOMATAS 1      |       LENGUAJE Y AUTOMATAS 1      |       LENGUAJE Y AUTOMATAS 1      |       LENGUAJE Y AUTOMATAS 1      |
