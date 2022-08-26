@@ -12,16 +12,11 @@
 
 -------------------------------------------------------------HORARIO-------------------------------------------------------------------------------
 
-
-|       |             **LUNES**             |             **MARTES**            |           **MIERCOLES**           |             **JUEVES**            |            **VIERNES**            |
-|:-----:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
-|  8:00 | TOPICOS AVANZADOS DE PROGRAMACION | TOPICOS AVANZADOS DE PROGRAMACION | TOPICOS AVANZADOS DE PROGRAMACION | TOPICOS AVANZADOS DE PROGRAMACION | TOPICOS AVANZADOS DE PROGRAMACION |
-|  9:00 |        CULTURA EMPRESARIAL        |        CULTURA EMPRESARIAL        |        CULTURA EMPRESARIAL        |        CULTURA EMPRESARIAL        |                                   |
-| 10:00 |                                   |                                   |                                   |                                   |                                   |
-| 11:00 |                                   |                                   |                                   |                                   |                                   |
-| 12:00 |                                   |                                   |                                   |                                   |                                   |
-| 13:00 |       INGENIERIA DE SOFTWARE      |       INGENIERIA DE SOFTWARE      |       INGENIERIA DE SOFTWARE      |       INGENIERIA DE SOFTWARE      |       INGENIERIA DE SOFTWARE      |
-| 14:00 |       LENGUAJE DE  INTERFAZ       |       LENGUAJE DE  INTERFAZ       |       LENGUAJE DE  INTERFAZ       |       LENGUAJE DE  INTERFAZ       |                                   |
-| 15:00 |       REDES DE COMPUTADORAS       |       REDES DE COMPUTADORAS       |       REDES DE COMPUTADORAS       |       REDES DE COMPUTADORAS       |       REDES DE COMPUTADORAS       |
-| 16:00 |             SIMULACION            |             SIMULACION            |             SIMULACION            |             SIMULACION            |             SIMULACION            |
-| 17:00 |       LENGUAJE Y AUTOMATAS 1      |       LENGUAJE Y AUTOMATAS 1      |       LENGUAJE Y AUTOMATAS 1      |       LENGUAJE Y AUTOMATAS 1      |       LENGUAJE Y AUTOMATAS 1      |
+|       | LUNES                                         | MARTES                                        | MIERCOLES                                     | JUEVES                                        | VIERNES                                       |
+|-------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| 13:00 | TALLER DE INVESTIGACION 1                     | TALLER DE INVESTIGACION 1                     | TALLER DE INVESTIGACION 1                     | TALLER DE INVESTIGACION 1                     |                                               |
+| 14:00 | GESTION DE PROYECTOS DE SOFTWARE              | GESTION DE PROYECTOS DE SOFTWARE              | GESTION DE PROYECTOS DE SOFTWARE              | GESTION DE PROYECTOS DE SOFTWARE              | GESTION DE PROYECTOS DE SOFTWARE              |
+| 15:00 | PROGRAMACION LOGICA Y FUNCIONAL               | PROGRAMACION LOGICA Y FUNCIONAL               | PROGRAMACION LOGICA Y FUNCIONAL               | PROGRAMACION LOGICA Y FUNCIONAL               | GESTION DE PROYECTOS DE SOFTWARE              |
+| 16:00 | LENGUAJE Y AUTOMATAS 2                        | LENGUAJE Y AUTOMATAS 2                        | LENGUAJE Y AUTOMATAS 2                        | LENGUAJE Y AUTOMATAS 2                        | LENGUAJE Y AUTOMATAS 2                        |
+| 17:00 | SISTEMAS PROGRAMABLES                         | SISTEMAS PROGRAMABLES                         | SISTEMAS PROGRAMABLES                         | SISTEMAS PROGRAMABLES                         |                                               |
+| 18:00 | CONMUTACION Y  ENRUTAMIENTO EN REDES DE DATOS | CONMUTACION Y  ENRUTAMIENTO EN REDES DE DATOS | CONMUTACION Y  ENRUTAMIENTO EN REDES DE DATOS | CONMUTACION Y  ENRUTAMIENTO EN REDES DE DATOS | CONMUTACION Y  ENRUTAMIENTO EN REDES DE DATOS |
