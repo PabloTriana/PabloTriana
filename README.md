@@ -1,22 +1,15 @@
+# 💫 About Me:
+🔭 Soy estudiante en Ing. Sistemas Computacionales del Instituto Tecnologico de Tijuana(ITT).<br>📝 Me gusta aprender cosas nuevas.<br>🔨 Me gusta arreglar o solucionar objetos o problemas.<br>😄 Me gusta trabajar en equipo, ayudar y explicar algun tema o conocimiento.<br>🎧 Me gusta mucho escuchar música y jugar videojuegos.<br>⚔️ Me gusta jugar Clash Royal.
 
 
-![cooltext404055628315774](https://user-images.githubusercontent.com/56365277/153310972-d77a9363-e1f1-4a6b-96ba-01372501dd76.png)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cache-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cache-P&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cache-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 Soy estudiante en Ing. Sistemas Computacionales del Instituto Tecnologico de Tijuana(ITT).
-- 📝 Me gusta aprender cosas nuevas.
-- 🔨 Me gusta arreglar o solucionar objetos o problemas.
-- 😄 Me gusta trabajar en equipo, ayudar y explicar algun tema o conocimiento.
-- 🎧 Me gusta mucho escuchar musica y jugar videojuegos.
-- ⚔️ Me gusta jugar Clash Royal.
+---
+[![](https://visitcount.itsvg.in/api?id=Cache-P&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
--------------------------------------------------------------HORARIO-------------------------------------------------------------------------------
-
-|       | LUNES                                         | MARTES                                        | MIERCOLES                                     | JUEVES                                        | VIERNES                                       |
-|-------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| 13:00 | TALLER DE INVESTIGACION 1                     | TALLER DE INVESTIGACION 1                     | TALLER DE INVESTIGACION 1                     | TALLER DE INVESTIGACION 1                     |                                               |
-| 14:00 | GESTION DE PROYECTOS DE SOFTWARE              | GESTION DE PROYECTOS DE SOFTWARE              | GESTION DE PROYECTOS DE SOFTWARE              | GESTION DE PROYECTOS DE SOFTWARE              | GESTION DE PROYECTOS DE SOFTWARE              |
-| 15:00 | PROGRAMACION LOGICA Y FUNCIONAL               | PROGRAMACION LOGICA Y FUNCIONAL               | PROGRAMACION LOGICA Y FUNCIONAL               | PROGRAMACION LOGICA Y FUNCIONAL               | GESTION DE PROYECTOS DE SOFTWARE              |
-| 16:00 | LENGUAJE Y AUTOMATAS 2                        | LENGUAJE Y AUTOMATAS 2                        | LENGUAJE Y AUTOMATAS 2                        | LENGUAJE Y AUTOMATAS 2                        | LENGUAJE Y AUTOMATAS 2                        |
-| 17:00 | SISTEMAS PROGRAMABLES                         | SISTEMAS PROGRAMABLES                         | SISTEMAS PROGRAMABLES                         | SISTEMAS PROGRAMABLES                         |                                               |
-| 18:00 | CONMUTACION Y  ENRUTAMIENTO EN REDES DE DATOS | CONMUTACION Y  ENRUTAMIENTO EN REDES DE DATOS | CONMUTACION Y  ENRUTAMIENTO EN REDES DE DATOS | CONMUTACION Y  ENRUTAMIENTO EN REDES DE DATOS | CONMUTACION Y  ENRUTAMIENTO EN REDES DE DATOS |
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
